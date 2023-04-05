@@ -4,4 +4,6 @@
     let a = "hello"
     let b = "World"
     console.log(a + b);
-</script>
+    console.log(b + a);
+    console.log(a + b + a);
+    </script>
